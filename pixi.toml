@@ -1,0 +1,11 @@
+[project]
+authors = ["Sergey Sonkin <mastersmail1@gmail.com>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+description = "Add a short description here"
+name = "calculator"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
